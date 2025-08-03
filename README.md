@@ -2,7 +2,7 @@
 
 Snazzle is a habit-forming personal finance app designed for Gen-Z. It helps users track daily spending, save for long-term goals, and build money discipline — all in a playful, gamified way.
 
-## 🚀 Why Snazzle?
+## Why Snazzle?
 
 Most fintech apps focus on transactions, loans, or investments. Snazzle is different — it’s built to:
 - Encourage **goal-based saving**
@@ -12,7 +12,7 @@ Most fintech apps focus on transactions, loans, or investments. Snazzle is diffe
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Create & manage saving goals  
 - Daily budget planner with reminders  
@@ -22,7 +22,7 @@ Most fintech apps focus on transactions, loans, or investments. Snazzle is diffe
 
 ---
 
-## 📊 Target Audience
+## Target Audience
 
 - Students and early professionals  
 - Ages 18–28  
@@ -31,7 +31,7 @@ Most fintech apps focus on transactions, loans, or investments. Snazzle is diffe
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File / Folder        | Description                                   |
 |----------------------|-----------------------------------------------|
@@ -44,7 +44,7 @@ Most fintech apps focus on transactions, loans, or investments. Snazzle is diffe
 
 ---
 
-## 📈 Survey Insights
+## Survey Insights
 
 - 73% don’t use saving apps  
 - 66% are motivated by visual progress  
@@ -54,7 +54,7 @@ Most fintech apps focus on transactions, loans, or investments. Snazzle is diffe
 
 ---
 
-## 🎯 Personas
+## Personas
 
 Meet our target users:
 - **Planner Priya** – organized student, loves saving
@@ -65,7 +65,7 @@ Meet our target users:
 
 ---
 
-## 📍 Status
+## Status
 
 MVP in concept stage.  
 User research, personas, PRD, wireframes completed.  
@@ -73,16 +73,16 @@ Development & prototyping to follow.
 
 ---
 
-## 🙌 Contribute
+## Contribute
 
 This is a concept project, but if you're interested in joining the build, suggest ideas or improvements via issues or discussions!
 
 ---
 
-## 📬 Contact
+## Contact
 
 Project by **Shubham Nare**  
-Connect: [LinkedIn](https://www.linkedin.com/in/shubham-nare-2b2a79221/)) | Email: [shubhamnare741@gmail.com](mailto:shubhamnare741@gmail.com)
+Connect: [LinkedIn](https://www.linkedin.com/in/shubham-nare-2b2a79221/) | Email: [shubhamnare741@gmail.com](mailto:shubhamnare741@gmail.com)
 
 ---
 
